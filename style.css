@@ -1,0 +1,38 @@
+body {
+    background: turquoise;
+    font-family: 'Special Elite', cursive;
+}
+
+.headerDiv {
+    background-color: navy;
+    color: whitesmoke;
+    text-align:center ;
+}
+
+.headerDiv p {
+    font-family: Roboto;
+    color: tomato;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.mainDiv button {
+    font-family: Roboto;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.footer {
+    position: fixed;
+    background-color: lightseagreen;
+    color: maroon;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+
+}
